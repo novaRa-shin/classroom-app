@@ -1,2 +1,2 @@
 # classroom-app
-project
+project.
